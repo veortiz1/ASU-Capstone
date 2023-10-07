@@ -2,12 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define the data
-team_velocity = [8, 10]
+team_velocity = [11, 11]
+# one small task is one point bascially
 individual_velocities = {
-    'Ryan': [2, 0, 0, 0],
-    'Ella': [2, 0, 2, 2],
-    'Duke': [0, 2, 2, 0],
-    'Riley': [0, 0, 0, 2]
+    'Bruce': [0, 3, 0, 0],
+    'Brent': [0, 0, 0, 3],
+    'Nathan': [2, 0, 1, 0],
+    'Vincent': [2, 0, 0, 0]
 }
 
 # Define the sprint tasks
